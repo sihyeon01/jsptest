@@ -6,6 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Forward Action Test</title>
+
 </head>
 <body>
 	<jsp:forward page='<%=request.getParameter("forwardPage") %>'>
