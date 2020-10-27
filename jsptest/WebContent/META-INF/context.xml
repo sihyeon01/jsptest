@@ -8,7 +8,7 @@
 		password="yt1234"
 		driverClassName="com.mysql.cj.jdbc.Driver"
 		factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
-		url="jdbc:mysql://localhost:3306W/shopDB?useUnicode=true&amp;
+		url="jdbc:mysql://localhost:3306/shopDB?useUnicode=true&amp;
 		characterEncoding=UTF8 &amp;
 		useJDBCCompliantTimezoneShift=true&amp;
 		useLegacyDatetimeCode=false&amp;
@@ -24,7 +24,7 @@
 		password="yt1234"
 		driverClassName="com.mysql.cj.jdbc.Driver"
 		factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
-		url="jdbc:mysql://localhost:3306W/haksa?useUnicode=true&amp;
+		url="jdbc:mysql://localhost:3306/haksa?useUnicode=true&amp;
 		characterEncoding=UTF8 &amp;
 		useJDBCCompliantTimezoneShift=true&amp;
 		useLegacyDatetimeCode=false&amp;
